@@ -11,7 +11,7 @@ app.use(cors());
 app.post("/openAIResponse", async (req, res) => {
   try {
     const { prompt } = req.body;
-    const OpenAIKey = "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"; // Here your OpenAI Api
+    const OpenAIKey = "your-openai-api-key"; // Here your OpenAI Api
 
     // Prepare the request body
     const body = {
