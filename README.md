@@ -27,7 +27,7 @@ Simple application that allows users to interact with the OpenAI GPT-3.5 Turbo m
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TheAdmi/OpenAI-Api.git
+   git clone https://github.com/abdellah-agrm/OpenAI-Api.git
    ```
 
 2. Navigate to the backend folder:
